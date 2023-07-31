@@ -1,0 +1,30 @@
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/openzeppelin-contracts"]
+	path = lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "lib/BoringSolidity"]
+	path = lib/BoringSolidity
+	url = https://github.com/boringcrypto/BoringSolidity
+[submodule "lib/tapioca-sdk-audit"]
+	path = lib/tapioca-sdk-audit
+	url = https://github.com/Tapioca-DAO/tapioca-sdk-audit
+[submodule "lib/tapioca-periph-audit"]
+	path = lib/tapioca-periph-audit
+	url = https://github.com/Tapioca-DAO/tapioca-periph-audit
+[submodule "lib/tapioca-mocks-audit"]
+	path = lib/tapioca-mocks-audit
+	url = https://github.com/Tapioca-DAO/tapioca-mocks-audit
+[submodule "lib/tapioca-yieldbox-strategies-audit"]
+	path = lib/tapioca-yieldbox-strategies-audit
+	url = https://github.com/Tapioca-DAO/tapioca-yieldbox-strategies-audit
+[submodule "lib/YieldBox"]
+	path = lib/YieldBox
+	url = https://github.com/Tapioca-DAO/YieldBox
+[submodule "lib/v3-core"]
+	path = lib/v3-core
+	url = https://github.com/Uniswap/v3-core
+[submodule "lib/v3-periphery"]
+	path = lib/v3-periphery
+	url = https://github.com/Uniswap/v3-periphery

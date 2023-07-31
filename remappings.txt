@@ -1,0 +1,10 @@
+forge-std/=lib/forge-std/
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+@boringcrypto/boring-solidity/=lib/BoringSolidity/
+@tapioca-sdk/dist/=lib/tapioca-sdk-audit/
+tapioca-periph/=lib/tapioca-periph-audit/
+tapioca-mocks/=lib/tapioca-mocks-audit/
+tapioca-yieldbox-strategies/=lib/tapioca-yieldbox-strategies-audit/
+@uniswap/v3-periphery/=lib/v3-periphery/
+@uniswap/v3-core/=lib/v3-core/
+@YieldBox/=lib/YieldBox/contracts/

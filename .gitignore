@@ -15,5 +15,6 @@ test/1.t.sol
 test/2.t.sol
 test/3.t.sol
 test/4.t.sol
+test/5.t.sol
 
 .env.keys
